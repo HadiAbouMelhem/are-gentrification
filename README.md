@@ -1,4 +1,4 @@
-# are-gentrification
+# Gentrification
 
 Membres : Hadi ABOU MELHEM, Nicolas BOULAUD, Guy-Bom LEE, Dominik NITA
 
