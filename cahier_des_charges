@@ -1,0 +1,31 @@
+Cahier des charges ARE DYNAMIC : Modélisation de la gentrification
+Hadi ABOU MELHEM, Nicolas BOULAUD, Guy-Bom LEE, Dominik NITA
+
+La gentrification, issu de l’anglais gentry, « petite noblesse », désigne l’embourgeoisement urbain. C’est un phénomène par lequel une classe sociale plus aisée s’approprie un quartier jusqu’à lors habité par une classe sociale moins élevée. 
+
+
+Quels sont les facteurs pondérant la processus de gentrification ?
+Comment interagissent les agents entre eux et avec le système ?
+Quelles sont les limites d’une telle modélisation ?
+
+
+Les facteurs principaux de la gentrification rapportés dans la littérature scientifique sont : 
+la structure des emplois (ex : nombre d’emplois ouvrier disponibles…)
+les structures du logement et du marché immobilier (ex : prix de l’immobilier, patrimoine culturel du quartier…)
+les politiques publiques urbaines (ex : logements sociaux, réhabilitation de quartier par les pouvoirs publics…)
+
+
+Les objectifs mis en place :
+Compréhension du phénomène de gentrification
+Réalisation d’une modélisation pertinente avec les moyens à disposition
+Application de ce modèle à une ville, Paris
+
+
+Pour la validation, nous pouvons nous servir des conséquences de la gentrification décrites dans la littérature scientifique.
+À titre d’exemple, une des principales conséquences observée est la hausse des prix de l’immobilier dans un quartier en pleine gentrification. Nous pourrons donc ajouter à notre modèle une évolution des prix de l’immobilier dans les différentes zones de l’environnement selon les classes sociales habitant ces zones. Nous pourrons ensuite nous servir des historiques des prix de l’immobilier dans Paris (si notre application sur une ville est efficace).
+Ainsi nous pouvons faire une approche de la validation avec de nombreuses données scientifiques.
+De plus, nous pourrions contacter un chercheur travaillant sur le dit sujet pour jujer la pertinence de notre modèle, des recherches académiques ayant été faites.
+
+
+Dans cette modélisation, les agents seraient les habitants de l’espace en question. Les interactions seraient les déménagements des habitants. Ces déménagements seraient gouvernés par un algorithme de prise de décision des habitants, variant selon l’importance des facteurs. L’importance des différents facteurs pourrait justement varier selon les simulations, si nous passons ces facteurs en paramètres que nous réglons avant la simulation. L’environnement varie aussi au cours du temps. Les différents facteurs satisfont les habitants à chaque pas de temps, si non, les habitants déménagent. 
+
