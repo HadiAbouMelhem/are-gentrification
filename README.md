@@ -18,7 +18,7 @@ sociale par l’exclusion les classes populaires des quartiers) dans le but de c
 
 ## 07/03/2018
 - Choix d'un modèle ayant pour base le prix de l'immobilier, puis implémentation progressive du modèle de ségrégation de Scheilling pour les caractéristiques culturelles
-- Réalisation de code informatique : environnement, matrice, prix de l'immobilier représenté par 5 valeurs discrètes, niveau de vie représenté par 5 valeurs discrètes, satisfaction, déménagement
+- Réalisation de code informatique pour le cas de prix immobilier fixe : environnement, matrice, prix de l'immobilier représenté par 5 valeurs discrètes, niveau de vie représenté par 5 valeurs discrètes, satisfaction, déménagement
 
 ## 14/03/2018
 
