@@ -21,7 +21,13 @@ sociale par l’exclusion les classes populaires des quartiers) dans le but de c
 - Réalisation de code informatique pour le cas de prix immobilier fixe : environnement, matrice, prix de l'immobilier représenté par 5 valeurs discrètes, niveau de vie représenté par 5 valeurs discrètes, satisfaction, déménagement
 
 ## 14/03/2018
-
+- Fin de la dynamique de déménagement causé par le prix de l'immobilier. 
+- Ajout d'une dynamique d'évolution aléatoire du prix de l'immobilier.
+- Début des recherches pour implémenter le calcul du prix de l'immobilier par quartier. Nous devons réfléchir à comment implémenter le nombres de transports, le nombre et/ou le niveau des écoles, le patrimoine culturel, le nombre et/ou le type de commerces. Ces variables de départ définissent l'environnement de départ.
+- Puis nous devons réfléchir à quelle fréquence un quartier est réhabilité/rénnové, et comment cela influe sur le prix de l'immobilier. Aussi, à quelle fréquence sont crées de nouveaux transports, de nouveaux commerces.
+- Nous réflechirons ensuite pour trouver une dynamique qui fait que l'évolution des quartiers voisins influe sur l'évolution d'un quartier. Dans l'environnement de départ, il y aura sans doute un seuil d'écart de prix entre les quartiers voisins.
+- Enfin, nous devons définir le typage des prix de l'immobilier qui avantage le plus notre code, tout en étant utile à la validation.
+Nous espèrons finir l'implémentation de l'environnement pour la prochaine fois, pour rajouter des paramètres aux déménagements des agents à la séance suivante.
 
 
 
