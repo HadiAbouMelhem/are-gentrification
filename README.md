@@ -29,9 +29,15 @@ sociale par l’exclusion les classes populaires des quartiers) dans le but de c
 - Enfin, nous devons définir le typage des prix de l'immobilier qui avantage le plus notre code, tout en étant utile à la validation.
 Nous espèrons finir l'implémentation de l'environnement pour la prochaine fois, pour rajouter des paramètres aux déménagements des agents à la séance suivante.
 
+## 21/03/2018
+- Début réalisation du code
+- Recherche des données pertinente sur les agents et l'environnement
+- Réflexion sur l'affichage des données
 
+## 28/03/2018
+- Recherche et prise en main de networkx
+- Initialisation des agents et de l'environnement
+- Codage des interactions
 
-
-
-
-
+## 04/04/2018
+- 
